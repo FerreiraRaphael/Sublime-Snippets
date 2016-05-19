@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+/**
+* @autor Raphael Ferreira, https://github.com/FerreiraRaphael
+* @descrição ${1:descricao}
+*
+* @method ${2:metodo}
+* @param ${3:params}
+* @return ${4:return}
+*/
+	]]></content>
+		<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>docs</tabTrigger>
+		<!-- Optional: Set a scope to limit where the snippet will trigger -->
+		<!-- <scope>source.python</scope> -->
+		<!-- Optional: Description to show in the menu -->
+	<description>Documente</description>
+</snippet>
